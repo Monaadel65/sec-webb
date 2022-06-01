@@ -1,0 +1,131 @@
+.nav{
+    width:100%;
+    height: 50px;
+    /* top: 0;
+    z-index: 10;
+    opacity: .5; */
+    margin-top: 50px;
+    }
+    
+    .logo{
+    height: 40px;
+    width: 140px;
+    margin-left: 90px;
+    }
+    
+    .ul1{
+    list-style: none;
+    float: right;
+    margin-left: 10px;
+    }
+    
+    li{
+    display:inline-block;
+    margin: 0px 40px;
+    }
+    .a1{
+    color: #7b5244;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .ul1:hover{
+    box-sizing: border-box;
+    }
+/* -------------------------------------- */
+
+.container{
+    height: 80vh;
+    background-image: url(../images/main-banner-1-1600x700.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:50px 100px;
+    
+    }
+/* -------------------------------------- */
+
+.container2{
+width: 80%;
+margin: auto;
+overflow: auto;
+margin-top: 30px;
+}
+
+.header2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.line{
+    display: block;
+    width: 70px;
+    height: 2px;
+    background-color: #7b5244;
+    margin:auto;
+    }
+
+  
+
+    /* ------------------- */
+    .pic1{
+        /* border: 1px rgb(194, 181, 181); */
+        float: left;
+        width: 22%;
+        margin-right: 10px;
+        position:relative;
+     
+
+        }
+        .pic1 img{
+            width: 100%;
+
+        }
+        .pic2{
+            /* border: 1px rgb(194, 181, 181); */
+            float: left;
+            width: 22%;
+            margin-right: 10px;
+            position:relative;
+
+
+
+
+            }
+            .pic2 img{
+                width: 100%;
+    
+            }
+            .pic3{
+                /* border: 1px rgb(194, 181, 181); */
+                float: left;
+                width: 22%;
+                margin-right: 10px;
+                position:relative;
+
+
+
+
+                }
+                .pic3 img{
+                    width: 100%;
+        
+                }
+                .pic4{
+                    /* border: 1px rgb(194, 181, 181); */
+                    float: left;
+                    width: 22%;
+                    position:relative;
+
+
+
+                    }
+
+                    .pic4 img{
+                        width: 100%;
+            
+                    }
+
+                    .header-pic{
+                        font-size: 19px;
+                        font-family: Arial, Helvetica, sans-serif;
+                    }
